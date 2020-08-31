@@ -1,0 +1,7 @@
+>> main
+Generating reference trajectory
+Entering control loop
+Generating animation csv file
+Writing error plot data
+Generating error plot
+Done. Please clear workspace if you want to re-run the program
